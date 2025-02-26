@@ -48,7 +48,7 @@ This dashboard is designed for **healthcare professionals, administrators, and a
 ## 📊 Dashboard Preview
 *(Screenshots of the dashboard visuals for quick reference)*
 
-![Summary Page](./Images/Summary_Page.png)
+![Summary Page](https://github.com/meenakshi-sethi/Visualisation_Projects/blob/main/healthcare_analytics_Waitlist_Watch/Images/Waitlist_Summary_Page_1.png)
 
 ![Detailed Page](./Images/Detailed_Page.png)
 
