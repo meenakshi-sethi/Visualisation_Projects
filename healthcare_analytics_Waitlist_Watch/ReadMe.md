@@ -50,9 +50,7 @@ This dashboard is designed for **healthcare professionals, administrators, and a
 
 ![Summary Page](https://github.com/meenakshi-sethi/Visualisation_Projects/blob/main/healthcare_analytics_Waitlist_Watch/Images/Waitlist_Summary_Page_1.png)
 
-![Detailed Page](./Images/Detailed_Page.png)
-
-![ER Daigram](./Images/Tooltip_Page.png)
+![Detailed Page](https://github.com/meenakshi-sethi/Visualisation_Projects/blob/main/healthcare_analytics_Waitlist_Watch/Images/Waitlist_Detail_Page_2.png)
 
 ---
 
@@ -90,7 +88,7 @@ Power BI supports 200+ data connectors; for this project, we used:
 - **Folder Connection**
 
 🔗 **Dataset Used:** *(Provide a download link if available)*  
-[Download Dataset](./Data/Healthcare_Waitlist.csv)
+[Download Dataset](https://github.com/meenakshi-sethi/Visualisation_Projects/tree/main/healthcare_analytics_Waitlist_Watch/data)
 
 ---
 
@@ -114,6 +112,7 @@ To ensure accurate reporting, **data relationships** were established:
 2. Link `Specialty_Name` from `All_Data` → `Specialty` in `Mapping_Specialty`.
 3. Ensure **one-to-many relationships** are properly configured.
 
+![ER Daigram](https://github.com/meenakshi-sethi/Visualisation_Projects/blob/main/healthcare_analytics_Waitlist_Watch/Images/Waitlist_ER.png)
 ---
 
 ### **5️⃣ Visualization Blueprint**
@@ -177,10 +176,10 @@ The dashboard is **designed for long-term use**, with:
 ## 📂 Files in This Repository
 
 📌 **Power BI File (`.pbix`)**  
-🔗 [Download Healthcare Dashboard](./PowerBI_Files/Healthcare_Dashboard.pbix)
+🔗 [Download Healthcare Dashboard](https://github.com/meenakshi-sethi/Visualisation_Projects/blob/main/healthcare_analytics_Waitlist_Watch/healthcare_analytics_dashboard.pbix)
 
 📌 **Datasets (`CSV / Excel`)**  
-📂 [Download Data](./Data/Healthcare_Waitlist.csv)
+📂 [Download Data](https://github.com/meenakshi-sethi/Visualisation_Projects/tree/main/healthcare_analytics_Waitlist_Watch/data)
 
 ---
 
